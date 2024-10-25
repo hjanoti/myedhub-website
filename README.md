@@ -14,6 +14,12 @@ A web application designed to provide educational resources and skill developmen
 - JavaScript
 - AOS (Animate on Scroll) library for animations
 
+## Live Demo
+You can view the live website [here](https://myedhub.netlify.app).
+
+## Contributing
+Feel free to contribute to this project! Please open an issue or submit a pull request.
+
 ## Installation
 To run this project locally, follow these steps:
 
